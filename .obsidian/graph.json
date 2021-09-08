@@ -39,7 +39,7 @@
       "query": "path:W",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 4160750
       }
     }
   ],
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6337149045752609,
+  "scale": 0.5997109756736118,
   "close": false
 }
