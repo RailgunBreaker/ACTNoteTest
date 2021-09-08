@@ -8,24 +8,38 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "path:E",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "",
+      "query": "path:M",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "",
+      "query": "path:R",
       "color": {
         "a": 1,
         "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:S",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:W",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
       }
     }
   ],
