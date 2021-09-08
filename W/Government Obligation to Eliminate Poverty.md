@@ -32,6 +32,8 @@ industrious=diligent
 
 assertion=opinion
 
+As for... 至于
+
 **段落结尾用语**
 
 ==Thus. I disagree with perspective two for its subjectivity and one-sidedness==
