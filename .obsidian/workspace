@@ -7,11 +7,8 @@
         "id": "1bd6dee8b4d2cc83",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "E/Noun Clause.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E/Noun Clause.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
