@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1bd6dee8b4d2cc83",
+        "id": "2c5c93071ec39cd3",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -82,12 +82,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1bd6dee8b4d2cc83",
+  "active": "2c5c93071ec39cd3",
   "lastOpenFiles": [
+    "README.md",
     "E/Noun Clause.md",
     "E/逗号.md",
     "W/瞎扯点蛋.md",
-    "README.md",
     "E/平行结构.md",
     "E/NotLeast Acceptable(原文一定正确）.md",
     "E/定语从句.md"
