@@ -1,24 +1,17 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
-  "showAttachments": false,
-  "hideUnresolved": false,
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:E",
       "color": {
         "a": 1,
         "rgb": 14048348
-      }
-    },
-    {
-      "query": "path:M",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
       }
     },
     {
@@ -36,10 +29,17 @@
       }
     },
     {
+      "query": "path:M",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
       "query": "path:W",
       "color": {
         "a": 1,
-        "rgb": 4160750
+        "rgb": 12344534
       }
     }
   ],
