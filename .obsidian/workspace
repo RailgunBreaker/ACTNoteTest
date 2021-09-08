@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "fbd92a7605f26fa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bd6dee8b4d2cc83",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff9bbf391cfc506c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fac7e7ca17aee52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79320561a269bf4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "daeec8e1dda055b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4107fba9d8a204a",
+    "type": "split",
+    "children": [
+      {
+        "id": "60fbb0ef802837d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b9f3f92069a0ba5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1bd6dee8b4d2cc83",
+  "lastOpenFiles": [
+    "E/定语从句.md",
+    "E/逗号.md",
+    "README.md"
+  ]
+}
