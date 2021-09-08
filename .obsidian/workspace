@@ -7,8 +7,11 @@
         "id": "1bd6dee8b4d2cc83",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "E/Noun Clause.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "E/Noun Clause.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,7 @@
   },
   "active": "1bd6dee8b4d2cc83",
   "lastOpenFiles": [
+    "E/Noun Clause.md",
     "E/逗号.md",
     "W/瞎扯点蛋.md",
     "README.md",
