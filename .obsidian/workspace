@@ -7,8 +7,11 @@
         "id": "1bd6dee8b4d2cc83",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "E/平行结构.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "E/平行结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,8 @@
   },
   "active": "1bd6dee8b4d2cc83",
   "lastOpenFiles": [
+    "E/平行结构.md",
+    "E/NotLeast Acceptable(原文一定正确）.md",
     "E/定语从句.md",
     "E/逗号.md",
     "README.md"
