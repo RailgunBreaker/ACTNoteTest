@@ -7,11 +7,8 @@
         "id": "1bd6dee8b4d2cc83",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "W/瞎扯点蛋.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "W/瞎扯点蛋.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +84,11 @@
   },
   "active": "1bd6dee8b4d2cc83",
   "lastOpenFiles": [
+    "E/逗号.md",
     "W/瞎扯点蛋.md",
     "README.md",
     "E/平行结构.md",
     "E/NotLeast Acceptable(原文一定正确）.md",
-    "E/定语从句.md",
-    "E/逗号.md"
+    "E/定语从句.md"
   ]
 }
