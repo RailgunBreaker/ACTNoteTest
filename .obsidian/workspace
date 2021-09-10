@@ -7,11 +7,8 @@
         "id": "2c5c93071ec39cd3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "M/Factor Theorem.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M/Factor Theorem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "2c5c93071ec39cd3",
   "lastOpenFiles": [
-    "M/Factor Theorem.md",
+    "M/Rational Function and Asymptotes .md",
     "M/Numbers&Algerba&Function.md",
+    "M/Factor Theorem.md",
+    "E/虚拟语气.md",
     "E/时态.md",
     "E/Adverb Clause.md",
     "W/Government Obligation to Eliminate Poverty.md",
     "W/21上学期笔记.md",
     "M/Statistics&Probablity .md",
-    "E/独立主格.md",
-    "E/功能题.md",
-    "E/虚拟语气.md"
+    "E/独立主格.md"
   ]
 }
