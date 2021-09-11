@@ -16,7 +16,7 @@ ${\lim_{x\to+\infin}[f(x)-Ax]}=B$
 
 $y=Ax+B$
 
-## Limit Cacluaction
+## Limit Calculation
 
 ##  
 

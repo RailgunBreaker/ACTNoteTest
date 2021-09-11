@@ -22,10 +22,17 @@
       }
     },
     {
-      "query": "",
+      "query": "path:S",
       "color": {
         "a": 1,
         "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:R",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
       }
     }
   ],
